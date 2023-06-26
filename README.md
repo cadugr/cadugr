@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Carlos Eduardo Guerra Resende 
 
-- 🔭 Hoje trabalho como desenvolvedor fullstack
-- 🌱 Estudando Quarkus e Terraform
-- 📫 Contate-me no e-mail: cadu.guerra@gmail.com
-- 😄 Pronomes: ele/dele
+- 🔭 Today I work as a fullstack developer
+- 🌱 Studying Quarkus and Terraform
+- 📫 Contact me on email: cadu.guerra@gmail.com
+- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/cadugr">
