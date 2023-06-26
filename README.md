@@ -3,7 +3,7 @@
 - 🔭 Today I work as a fullstack developer
 - 🌱 Studying Quarkus and Terraform
 - 📫 Contact me on email: cadu.guerra@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
 <div>
   <a href="https://github.com/cadugr">
