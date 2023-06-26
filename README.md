@@ -1,4 +1,4 @@
-## Olá! Eu sou o Carlos Eduardo Guerra Resende 
+## Hi! I'm Carlos Eduardo Guerra Resende 
 
 - 🔭 Today I work as a fullstack developer
 - 🌱 Studying Quarkus and Terraform
