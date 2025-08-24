@@ -1,7 +1,7 @@
 ## Hi! I'm Carlos Eduardo Guerra Resende 
 
-- 🔭 Today I work as a fullstack developer
-- 🌱 Studying Quarkus, Terraform, Go and React
+- 🔭 Today I'm a backend developer
+- 🌱 Studying Microservices, Python and Azure
 - 📫 Contact me on email: cadu.guerra@gmail.com
 - 😄 Pronouns: he/him
 
