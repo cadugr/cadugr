@@ -1,7 +1,7 @@
 ## Hi! I'm Carlos Eduardo Guerra Resende 
 
 - 🔭 Today I'm a backend developer
-- 🌱 Studying Microservices, Kubernetes and GitOps (ArgoCD)
+- 🌱 Studying Microservices, Kubernetes, GitOps (ArgoCD) and Service Mesh with Istio
 - 📫 Contact me on email: cadu.guerra@gmail.com
 - 😄 Pronouns: he/him
 
