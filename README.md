@@ -4,13 +4,13 @@
 - 🌱 Studying Microservices, Kubernetes, GitOps (ArgoCD) and Service Mesh with Istio
 - 📫 Contact me on email: cadu.guerra@gmail.com
 - 😄 Pronouns: he/him
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadugr)](https://github.com/cadugr)
-<div>
+
+<!-- <div>
   <a href="https://github.com/cadugr">
     <img src="https://github-readme-stats.vercel.app/api?username=cadugr&show_icons=true&theme=dracula&border_radius=20&include_all_commits=true&count_private=true" height="180">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadugr&layout=compact&langs_count=16&theme=dracula" height="180">
   </a>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
