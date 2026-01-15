@@ -7,8 +7,8 @@
 
 <!-- <div>
   <a href="https://github.com/cadugr">
-    <img src="https://github-readme-stats.vercel.app/api?username=cadugr&show_icons=true&theme=dracula&border_radius=20&include_all_commits=true&count_private=true" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadugr&layout=compact&langs_count=16&theme=dracula" height="180">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=cadugr&show_icons=true&theme=dracula&border_radius=20&include_all_commits=true&count_private=true" height="180">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cadugr&layout=compact&langs_count=16&theme=dracula" height="180">
   </a>
 </div> -->
 
